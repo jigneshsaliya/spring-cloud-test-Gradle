@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/applications.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/applications.iml" group="applications" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/applications_main.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/applications_main.iml" group="applications" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/applications_test.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/applications_test.iml" group="applications" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/components.iml" filepath="$PROJECT_DIR$/.idea/modules/components/components.iml" group="components" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/components_main.iml" filepath="$PROJECT_DIR$/.idea/modules/components/components_main.iml" group="components" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/components_test.iml" filepath="$PROJECT_DIR$/.idea/modules/components/components_test.iml" group="components" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/hello-library/hello-library.iml" filepath="$PROJECT_DIR$/.idea/modules/components/hello-library/hello-library.iml" group="components/hello-library" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/hello-library/hello-library_main.iml" filepath="$PROJECT_DIR$/.idea/modules/components/hello-library/hello-library_main.iml" group="components/hello-library" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/hello-library/hello-library_test.iml" filepath="$PROJECT_DIR$/.idea/modules/components/hello-library/hello-library_test.iml" group="components/hello-library" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/hello-server/hello-server.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/hello-server/hello-server.iml" group="applications/hello-server" />
+      <module fileurl="file://$PROJECT_DIR$/applications/hello-server/hello-server.iml" filepath="$PROJECT_DIR$/applications/hello-server/hello-server.iml" group="applications/hello-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/hello-server/hello-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/hello-server/hello-server_main.iml" group="applications/hello-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/hello-server/hello-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/hello-server/hello-server_test.iml" group="applications/hello-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springcloudtest.iml" filepath="$PROJECT_DIR$/.idea/modules/springcloudtest.iml" />
+    </modules>
+  </component>
+</project>
