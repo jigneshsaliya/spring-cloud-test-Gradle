@@ -24,7 +24,7 @@ public class HelloServerApplication {
 				.apis(RequestHandlerSelectors.basePackage("com.example.helloserver"))
 				.build()
 				.apiInfo( new ApiInfo(
-						"MMJP Hello 1",
+						"MMJP Hello",
 						"Microservice to say hello to you",
 						"1.0",
 						"",
